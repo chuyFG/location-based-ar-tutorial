@@ -9,7 +9,6 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
-            {
             name: 'PokèmonA',
             location: {
                 lat: 39.575254,
