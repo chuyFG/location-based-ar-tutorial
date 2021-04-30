@@ -17,35 +17,35 @@ function staticLoadPlaces() {
             }
             },
             {
-            name: 'PokèmonA',
+            name: 'Magnemite',
             location: {
                 lat: 39.575254,
                 lng: -104.865885,
                 },
             },
             {
-            name: 'Pokèmon0',
+            name: 'Magnemite',
             location: {
                 lat: 39.575631,
                 lng: -104.866090,
                 },
             },
             {
-            name: 'Pokèmon',
+            name: 'Magnemite',
             location: {
                 lat: 39.575668,
                 lng: -104.865925,
                 },
             },
             {
-            name: 'Pokèmon2',
+            name: 'Magnemite',
             location: {
                 lat: 39.575697,
                 lng: -104.865802,
                 },
             },
             {
-            name: 'Pokèmon3',
+            name: 'Magnemite',
             location: {
                 lat: 39.575271,
                 lng: -104.824977,
