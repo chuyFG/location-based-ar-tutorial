@@ -9,26 +9,42 @@ window.onload = () => {
 function staticLoadPlaces() {
     return [
         {
+            {
+            name: 'Magnemite',
+            location: {
+                lat: 44.496470,
+                lng: 11.320180,
+            }
+            },
+            {
             name: 'PokèmonA',
             location: {
                 lat: 39.575254,
                 lng: -104.865885,
                 },
+            },
+            {
             name: 'Pokèmon0',
             location: {
                 lat: 39.575631,
                 lng: -104.866090,
                 },
+            },
+            {
             name: 'Pokèmon',
             location: {
                 lat: 39.575668,
                 lng: -104.865925,
                 },
+            },
+            {
             name: 'Pokèmon2',
             location: {
                 lat: 39.575697,
                 lng: -104.865802,
                 },
+            },
+            {
             name: 'Pokèmon3',
             location: {
                 lat: 39.575271,
