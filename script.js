@@ -29,9 +29,15 @@ function staticLoadPlaces() {
                 lng: -104.893402,
             },
         },
+        {
+            name: 'Pokèmon2',
+            location: {
+                lat: 39.579371,
+                lng: -104.761720,
+            },
+        },
     ];
 }
-
 var models = [
     {
         url: './assets/magnemite/scene.gltf',
