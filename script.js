@@ -58,7 +58,7 @@ var models = [
         info: 'Articuno, Lv. 80, HP 100/100',
     },
     {
-        url: './assets/sumerian/scene.gltf',
+        url: './assets/dragonite/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
         info: 'Sumerian, Lv. 99, HP 150/150',
