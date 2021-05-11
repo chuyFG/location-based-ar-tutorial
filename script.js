@@ -63,7 +63,6 @@ var models = [
         rotation: '0 180 0',
         info: 'Sumerian, Lv. 99, HP 150/150',
     },
-    },
 ];
 
 var modelIndex = 0;
