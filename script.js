@@ -8,37 +8,16 @@ window.onload = () => {
 
 function staticLoadPlaces() {
     return [
-            {
+        {
             name: 'Pokèmon',
             location: {
-                lat: 39.617971,
-                lng: -104.893420},
-        },
-        {
-            name: 'Pokèmon2',
-            location: {
-                lat: 39.617880,
-                lng: -104.893566},
-        },
-        {
-            name: 'Pokèmon2',
-            location: {
-                lat: 39.619616,
-                lng: -104.893402},
-        },
-        {
-            name: 'Pokèmon2',
-            location: {
-                lat: 39.579371,
-                lng: -104.761720},
-         {
-            name: 'Pokèmon2',
-            location: {
-                lat: 39.575957,
-                lng: -104.865818},
+                // lat: <your-latitude>,
+                // lng: <your-longitude>,
+            },
         },
     ];
 }
+
 var models = [
     {
         url: './assets/magnemite/scene.gltf',
@@ -56,7 +35,7 @@ var models = [
         url: './assets/dragonite/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
-        info: 'Sumerian, Lv. 99, HP 150/150',
+        info: 'Dragonite, Lv. 99, HP 150/150',
     },
 ];
 
